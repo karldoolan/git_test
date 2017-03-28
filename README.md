@@ -1,0 +1,1 @@
+This is Karl Doolan's first git project
